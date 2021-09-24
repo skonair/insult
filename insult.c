@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-char *insults[27] = {
+char *insults[28] = {
   "You are more disappointing than an unsalted pretzel.",
   "You look like you came from a donation pile.",
   "You need to go home and think about everything you are. Then change it.",
@@ -30,6 +30,7 @@ char *insults[27] = {
   "Apologize to that tree over there for wasting the oxygen that it worked so hard to make.",
   "If scientists found a way to convert brainpower into gasoline, you wouldn't have enough fuel to power an ant's go kart around the inside of a fruit loop.",
   "You’re the patient zero of dumbness aren’t you?",
+  "It's incredible how much joy you can bring to a room by simply leaving it.",
 };
 
 
